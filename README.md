@@ -1,3 +1,7 @@
+# Para levantar el proyecto
+La version de react:"18.2.0", de bootstrap: "5.3.0" y typescript:"4.9.5" 
+Se necesita hacer un npm install para descargar el node_modules y luego npm start para levantar el proyecto
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
